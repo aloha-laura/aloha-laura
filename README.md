@@ -16,9 +16,10 @@ I had the opportunity to give some talks :
 
 ## Articles 
 
-https://www.theodo.com/blog/maitriser-la-cascade-css-et-les-layer-au-dela-de-l-important
-https://www.theodo.com/blog/pourquoi-angular-financial-services
-https://www.theodo.com/blog/observables
+- About CSS Cascade - [Link](https://www.theodo.com/blog/maitriser-la-cascade-css-et-les-layer-au-dela-de-l-important) 
+- Why Angular is the right techno for financial servcies - [Link](https://www.theodo.com/blog/pourquoi-angular-financial-services)
+- Understanding observables through plumbing analogies - [Link](https://www.theodo.com/blog/observables) 
+
 
 <!---
 aloha-laura/aloha-laura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
