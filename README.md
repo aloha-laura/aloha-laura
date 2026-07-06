@@ -14,6 +14,12 @@ I had the opportunity to give some talks :
 
 🇬🇧 angularday Verona - November, 2025 - Design Patterns in the Frontend: Real-life Angular Architecture Lessons - [Incoming video]()
 
+## Articles 
+
+https://www.theodo.com/blog/maitriser-la-cascade-css-et-les-layer-au-dela-de-l-important
+https://www.theodo.com/blog/pourquoi-angular-financial-services
+https://www.theodo.com/blog/observables
+
 <!---
 aloha-laura/aloha-laura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
